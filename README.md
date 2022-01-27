@@ -1,0 +1,2 @@
+# Rock-Paper-Scissors-Simulator
+The traditional Rock-Paper-Scissors is a two-player game, in which each player simultaneously chooses, either rock, paper or scissors, given that, rock crushes scissors, scissors cuts paper, and paper covers rock. Based on the rules, the winner is decided.  If you are familiar with the popular TV Series, The Big Bang Theory, you might know another version of the game called Rock-Paper-Scissors-Lizard-Spock.
