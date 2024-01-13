@@ -32,8 +32,8 @@ This game allows the user to play Rock, Paper, Scissors against the computer. Th
 
 ## Screenshots
 <div>
-   <h2 align="center"><img src="./Screenshots/Screenshot_profile.png" alt="Weather App Screenshot" width="300" height="300"></h2>
-   <h2 align="center"><img src="./Screenshots/Screenshot_city.png" alt="Weather App Screenshot" width="300" height="300"></h2>
-   <h2 align="center"><img src="./Screenshots/Screenshot1.png" alt="Weather App Screenshot"   width="300" height="300"></h2>
-   <h2 align="center"><img src="./Screenshots/Screenshot3.png" alt="Weather App Screenshot"   width="500" height="300"></h2>
+   <h2 align="center"><img src="./Screenshots/Screenshot1.png" alt="Screenshot" width="300" height="300"></h2>
+   <h2 align="center"><img src="./Screenshots/Screenshot2.png" alt="Screenshot" width="300" height="300"></h2>
+   <h2 align="center"><img src="./Screenshots/Screenshot3.png" alt="Screenshot"   width="300" height="300"></h2>
+   <h2 align="center"><img src="./Screenshots/Screenshot4.png" alt="Screenshot"   width="500" height="300"></h2>
 </div>
