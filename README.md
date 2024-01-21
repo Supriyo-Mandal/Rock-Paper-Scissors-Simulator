@@ -6,6 +6,11 @@ This is a simple **Rock, Paper, Scissors** game implemented in **Python** using 
 
 This game allows the user to play **Rock, Paper, Scissors** against the computer. The user selects their choice (Rock, Paper, or Scissors) by clicking the corresponding button, and the computer randomly selects its move. The game then determines the winner based on the rules of **Rock, Paper, Scissors** and displays the result.
 
+## 💻 Technology
+- Python Programming Language
+- Tkinter Library
+- PIL (Python Imaging Library)
+
 ## 🚀 Features
 
 - Simple and intuitive GUI using **Tkinter**.
